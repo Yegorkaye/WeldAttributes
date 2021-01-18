@@ -1,0 +1,13 @@
+C:\Users\KGCM\source\repos\WeldAttributes\WeldAttributes\bin\Debug\WeldAttributes.exe.config
+C:\Users\KGCM\source\repos\WeldAttributes\WeldAttributes\bin\Debug\WeldAttributes.exe
+C:\Users\KGCM\source\repos\WeldAttributes\WeldAttributes\bin\Debug\WeldAttributes.pdb
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.csprojAssemblyReference.cache
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.Form1.resources
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.Properties.Resources.resources
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.csproj.GenerateResource.cache
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.csproj.CoreCompileInputs.cache
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.exe
+C:\Users\KGCM\source\repos\WeldAttributes\ObjDir\2019\WeldAttributes\WeldAttributes.pdb
+C:\Users\KGCM\source\repos\WeldAttributes\WeldAttributes\bin\Release\WeldAttributes.exe.config
+C:\Users\KGCM\source\repos\WeldAttributes\WeldAttributes\bin\Release\WeldAttributes.exe
+C:\Users\KGCM\source\repos\WeldAttributes\WeldAttributes\bin\Release\WeldAttributes.pdb
